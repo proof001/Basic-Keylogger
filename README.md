@@ -3,7 +3,6 @@ Basic keylogger script for Linux using Python
 
 This script will log keystrokes to file 'keylog.txt'
 
-## Installation
 **Clone the Repository:** 
    ```sh
    git clone <URL>
