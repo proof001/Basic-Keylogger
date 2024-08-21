@@ -6,7 +6,7 @@ This script will log keystrokes to file 'keylog.txt'
 ## Installation
 **Clone the Repository:**
    ```sh
-   git clone <your-github-repo-url>
+   git clone <URL>
    cd keylogger
 
 ### Install Dependencies
