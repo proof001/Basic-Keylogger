@@ -11,3 +11,8 @@ This script will log keystrokes to file 'keylog.txt'
 
 ### Install Dependencies
 pip3 install pynput
+
+**Run the Script:**
+sh
+
+python3 keylogger.py
