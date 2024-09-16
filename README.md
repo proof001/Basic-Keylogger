@@ -10,7 +10,7 @@ This script will log keystrokes to file 'keylog.txt'
    ```
 **Install Dependencies:**
 ``pip3 install pynput``
-
+e
 **Run the Script:**
 ``python3 keylogger.py``
 
