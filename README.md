@@ -14,3 +14,4 @@ This script will log keystrokes to file 'keylog.txt'
 **Run the Script:**
 ``python3 keylogger.py``
 
+test
