@@ -5,7 +5,7 @@ This script will log keystrokes to file 'keylog.txt'
 
 **Clone the Repository:** 
    ```sh
-   git clone <URL>
+   git clone https://github.com/proof001/Basic-Keylogger
    cd keylogger
    ```
 **Install Dependencies:**
